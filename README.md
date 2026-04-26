@@ -36,12 +36,3 @@ It outputs **per-patient risk probabilities**, **class-wise metrics**, and **t-S
 - Libraries: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn  
 - `pyTsetlinMachine`  
 
----
-
-## Setup Instructions
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/<your-username>/PyTsetlinMachine_RiskPrediction.git
-cd PyTsetlinMachine_RiskPrediction
