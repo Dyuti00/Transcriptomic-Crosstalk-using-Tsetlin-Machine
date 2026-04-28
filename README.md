@@ -1,4 +1,4 @@
-# PyTsetlinMachine_RiskPrediction
+# Bioinfo and PyTsetlinMachine_RiskPrediction
 
 **PyTsetlinMachine-based pipeline for risk prediction using Euclidean distance probabilities**
 
